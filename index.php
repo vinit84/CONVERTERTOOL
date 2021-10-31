@@ -24,7 +24,7 @@ if($_FILES){
 
 <html>
 	<head>
-		<title>Online Image Converter | PNG to JPG</title>
+		<title> Convert Imgage Online | PNG to JPG</title>
 		<meta charset="utf-8" />
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -58,7 +58,7 @@ if($_FILES){
 										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://www.instagram.com/vinit_upadhyay_8454/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
 									</ul>
 								</header>
